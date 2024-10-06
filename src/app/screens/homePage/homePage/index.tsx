@@ -1,5 +1,6 @@
-import { Container } from "@mui/material";
+import {  Container  } from "@mui/material";
 
-export  function HomePage() {
+export function HomePage() {
   return <Container>HomePage</Container>;
+  
 }
